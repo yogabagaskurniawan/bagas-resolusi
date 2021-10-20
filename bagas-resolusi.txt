@@ -3,3 +3,4 @@ BAGAS RESOLUSI
 -membuat platform untuk pengelolahan data
 -untuk tempat berdiskusi
 -untuk membentuk team work
+-terus coba
